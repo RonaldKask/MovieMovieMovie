@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\boxoffice\boxoffice\bin\Debug\netcoreapp3.1\boxoffice.exe
+C:\Users\opilane\source\repos\boxoffice\boxoffice\bin\Debug\netcoreapp3.1\boxoffice.deps.json
+C:\Users\opilane\source\repos\boxoffice\boxoffice\bin\Debug\netcoreapp3.1\boxoffice.runtimeconfig.json
+C:\Users\opilane\source\repos\boxoffice\boxoffice\bin\Debug\netcoreapp3.1\boxoffice.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\boxoffice\boxoffice\bin\Debug\netcoreapp3.1\boxoffice.dll
+C:\Users\opilane\source\repos\boxoffice\boxoffice\bin\Debug\netcoreapp3.1\boxoffice.pdb
+C:\Users\opilane\source\repos\boxoffice\boxoffice\obj\Debug\netcoreapp3.1\boxoffice.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\boxoffice\boxoffice\obj\Debug\netcoreapp3.1\boxoffice.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\boxoffice\boxoffice\obj\Debug\netcoreapp3.1\boxoffice.AssemblyInfo.cs
+C:\Users\opilane\source\repos\boxoffice\boxoffice\obj\Debug\netcoreapp3.1\boxoffice.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\boxoffice\boxoffice\obj\Debug\netcoreapp3.1\boxoffice.dll
+C:\Users\opilane\source\repos\boxoffice\boxoffice\obj\Debug\netcoreapp3.1\boxoffice.pdb
+C:\Users\opilane\source\repos\boxoffice\boxoffice\obj\Debug\netcoreapp3.1\boxoffice.genruntimeconfig.cache
